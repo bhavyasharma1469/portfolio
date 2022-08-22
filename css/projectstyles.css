@@ -1,0 +1,53 @@
+body{
+    background-color: #DEFCFC;
+    text-align: center;
+}
+
+hr{
+    border-style: dotted none none none;
+    border-width: 5px;
+    color: #0000002b;
+    width: 15%;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.project1{
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+    border-radius: 100%;
+}
+
+.project2{
+    width: 30%;
+    float: right;
+    margin-left: 20px;
+    border-radius: 100%;
+}
+
+.project3{
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+    border-radius: 100%;
+}
+
+.project4{
+    width: 30%;
+    float: right;
+    margin-left: 20px;
+    border-radius: 100%;
+}
+
+.project5{
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+    border-radius: 100%;
+}

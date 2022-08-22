@@ -1,0 +1,180 @@
+.top-container{
+    background-color: #DEFCFC;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+body{
+    color: #40514E;
+    text-align: center;
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+    font-size: 1em;
+}
+
+img{
+    border-radius: 100%;
+}
+
+.profile-photo{
+    size: 150%;
+}
+
+p{
+    line-height: 2;
+}
+
+.profile{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.skills{
+    margin-top: 50px;
+}
+
+hr{
+    border-style: dotted none none none;
+    border-width: 5px;
+    color: #EAF6F6;
+    width: 15%;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    margin-top: 50px;
+    font-size: 450%;
+    line-height: 1;
+    color: #66BFBF;
+}
+
+h2{
+    font-family: 'Jost', sans-serif;
+    font-size: 175%;
+    font-weight: normal;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: 'Jost', sans-serif;
+    color: #11999E;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 270px;
+    bottom: 300px;
+}
+
+.top_cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.code-img{
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+}
+
+.img3{
+    width: 30%;
+    float: right;
+    margin-left: 20px;
+}
+
+.contact-message{
+    width: 40%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.contact-me{
+    text-align: center;
+}
+
+.bottom-container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #66BFBF;
+}
+
+.project-link{
+    color: #11999E;
+    line-break: 200px;
+    font-family: 'Jost', sans-serif;
+    margin: 10px;
+}
+
+.project-link:hover{
+    color: #66BFBF;
+}
+
+.footer-link{
+    color: #11999E;
+    line-break: 200px;
+    font-family: 'Jost', sans-serif;
+    margin: 10px;
+}
+
+.footer-link:hover{
+    color: white;
+}
+
+.copyright{
+    color: #EAF6F6;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.btn {
+    -webkit-border-radius: 32px;
+    -moz-border-radius: 32px;
+    border-radius: 32px;
+    height: 6px;
+    line-height: 6px;
+    color: #FFFFFF;
+    font-family: Brush Script MT;
+    width: 143px;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 19px;
+    background-color: #66BFBF;
+    -webkit-box-shadow: 0 1px 3px 0 #000000;
+    -moz-box-shadow: 0 1px 3px 0 #000000;
+    box-shadow: 0 1px 3px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #11999E;
+    border: solid #11999E 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
